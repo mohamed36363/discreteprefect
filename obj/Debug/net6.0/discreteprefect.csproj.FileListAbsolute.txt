@@ -1,0 +1,15 @@
+D:\discreteprefect\bin\Debug\net6.0\discreteprefect.exe
+D:\discreteprefect\bin\Debug\net6.0\discreteprefect.deps.json
+D:\discreteprefect\bin\Debug\net6.0\discreteprefect.runtimeconfig.json
+D:\discreteprefect\bin\Debug\net6.0\discreteprefect.dll
+D:\discreteprefect\bin\Debug\net6.0\discreteprefect.pdb
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.csproj.AssemblyReference.cache
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.GeneratedMSBuildEditorConfig.editorconfig
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.AssemblyInfoInputs.cache
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.AssemblyInfo.cs
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.csproj.CoreCompileInputs.cache
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.dll
+D:\discreteprefect\obj\Debug\net6.0\refint\discreteprefect.dll
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.pdb
+D:\discreteprefect\obj\Debug\net6.0\discreteprefect.genruntimeconfig.cache
+D:\discreteprefect\obj\Debug\net6.0\ref\discreteprefect.dll
